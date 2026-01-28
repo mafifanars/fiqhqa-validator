@@ -2,6 +2,14 @@
 
 The QAFiqih Validator app provides a complete interface for annotating and validating datasets on Islamic jurisprudence (Fiqh). It's a collaborative tool for both administrators, who manage the project, and annotators, who perform the validation work.
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation & Running](#installation--running)
+
 ## Key Features
 
 *   **Dual User Roles:** Separate interfaces and functionalities for Admins and Annotators.
